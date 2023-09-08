@@ -54,9 +54,7 @@ class LoginScreen extends StatelessWidget {
                 textColor: Colors.white,
                 padding:
                     const EdgeInsets.symmetric(vertical: 15, horizontal: 30),
-                onPressed: () {
-                  // Add your button's onPressed logic here
-                },
+                onPressed: () {},
               ),
             ],
           ),
